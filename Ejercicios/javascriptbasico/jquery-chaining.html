@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("#p1").css("color", "red")
+            .slideDown(3000)
+            .width("455px")
+            .height("55px")
+            .slideUp(2000)
+            ;
+    });
+});
+</script>
+</head>
+<body>
+
+<img id="p1" src="imagenes/fuck.jpg" alt="">
+
+<button>Click me</button>
+
+</body>
+</html>

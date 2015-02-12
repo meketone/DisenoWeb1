@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<style>
+	img{
+		width:60px;
+		height: 60px;
+	}
+</style>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("#btn1").click(function(){
+        $("p").append('<img src="imagenes/fuck.jpg">');
+    });
+    $("#btn2").click(function(){
+        $("p").prepend('<img src="imagenes/puno.jpg">');
+    });
+});
+</script>
+</head>
+<body>
+
+<p>YA ME LA SE ESE </p>
+
+
+
+<button id="btn1">Append</button>
+<button id="btn2">Prepend</button>
+
+</body>
+</html>
