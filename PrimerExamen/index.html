@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+
+
+
+	$(".caja2").hide();
+	$(".caja3").hide();
+	$(".caja4").hide();
+
+$("#a1").click(function(){
+    $(".caja1").show("fast", function(){
+    
+    $(".caja2").hide();
+	$(".caja3").hide();
+	$(".caja4").hide();
+    });
+  });
+
+  $("#a2").click(function(){
+    $(".caja2").show("fast", function(){
+    
+    $(".caja1").hide();
+	$(".caja3").hide();
+	$(".caja4").hide();
+    	
+    });
+  });
+
+   $("#a3").click(function(){
+    $(".caja3").show("fast", function(){
+    
+    $(".caja1").hide();
+	$(".caja2").hide();
+	$(".caja4").hide();
+    });
+  });
+
+$("#a4").click(function(){
+    $(".caja4").show("fast", function(){
+    
+    $(".caja1").hide();
+	$(".caja2").hide();
+	$(".caja3").hide();
+    });
+  });
+
+$("#c1").click(function() {
+	$("#producto").append('<li> Producto 1 </li>');
+});
+
+$("#c2").click(function() {
+	$("#producto").append('<li> Producto 2 </li>');
+});
+
+$("#c3").click(function() {
+	$("#producto").append('<li> Producto 3 </li>');
+});
+
+$("#c4").click(function() {
+	$("#producto").append('<li> Producto 4 </li>');
+});
+
+$("#pagar").click(function() {
+	alert(" Sus productos han sido pagados :) ");
+
+});
+
+$("#cancelar").click(function() {
+	$("#producto").empty();
+});
+
+});	
+
+</script>	
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Primer Examen Parcial</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	
+	<header>
+		<div class="degradado">
+			<div class="wrap-head">				
+					<h1 class="title"> VENTAS </h1>
+			</div>
+
+			<div class="clearfix"></div>
+		</div>
+			
+	</header>
+
+<section>
+	<div class="cuadro">
+		<div class="derecha">
+			<h2>PRODUCTOS</h2>
+		
+			<button class="verde" id="a1">Producto 1</button>	
+			<div class="caja1">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur voluptates nam, cupiditate reprehenderit qui nesciunt hic perspiciatis, iusto vel delectus facere. Consectetur error fugiat, qui, quo iusto dicta labore perspiciatis.</p>
+			<button class="comprar" id="c1">Comprar</button></div>
+			
+			<button class="verde"  id="a2">Producto 2</button>
+			<div class="caja2">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione enim dolor officia libero sint officiis, voluptatum accusamus dolores, magnam suscipit expedita minus voluptas natus cupiditate error ipsa omnis saepe dolorum.</p>
+			<button class="comprar" id="c2">Comprar</button></div>
+			
+			<button class="verde" id="a3">Producto 3</button>
+			<div class="caja3">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga nisi praesentium hic unde! Repudiandae nihil provident natus placeat, possimus voluptatem suscipit eveniet totam quod, quasi ea cupiditate blanditiis vero class!</p>
+			<button class="comprar" id="c3">Comprar</button></div>
+			
+			<button class="verde" id="a4">Producto 4</button>
+			<div class="caja4">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi nobis consequatur vel itaque dignissimos sequi! Doloremque sequi, quam eveniet blanditiis, excepturi laudantium praesentium molestiae illo quas hic, deserunt voluptas class.</p>
+			<button class="comprar"id="c4">Comprar</button></div>
+		</div>
+
+		<div class="izquierda">
+			<h2>PEDIDOS</h2>
+			<ol id="producto"></ol>
+			<button id="pagar">Pagar</button>
+			<br>
+			<button id="cancelar">Cancelar</button>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</section>
+
+	
+</body>
+</html>
