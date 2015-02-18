@@ -11,40 +11,22 @@ $(document).ready(function(){
 	$(".caja4").hide();
 
 $("#a1").click(function(){
-    $(".caja1").show("fast", function(){
+    $(".caja1").fadeToggle();
     
-    $(".caja2").hide();
-	$(".caja3").hide();
-	$(".caja4").hide();
-    });
+   
   });
 
   $("#a2").click(function(){
-    $(".caja2").show("fast", function(){
-    
-    $(".caja1").hide();
-	$(".caja3").hide();
-	$(".caja4").hide();
-    	
-    });
+    $(".caja2").fadeToggle();
   });
 
    $("#a3").click(function(){
-    $(".caja3").show("fast", function(){
-    
-    $(".caja1").hide();
-	$(".caja2").hide();
-	$(".caja4").hide();
-    });
-  });
+    $(".caja3").fadeToggle();
+});
 
 $("#a4").click(function(){
-    $(".caja4").show("fast", function(){
+    $(".caja4").fadeToggle();
     
-    $(".caja1").hide();
-	$(".caja2").hide();
-	$(".caja3").hide();
-    });
   });
 
 $("#c1").click(function() {
@@ -115,7 +97,7 @@ $("#cancelar").click(function() {
 			<button class="comprar" id="c3">Comprar</button></div>
 			
 			<button class="verde" id="a4">Producto 4</button>
-			<div class="caja4">
+			<div class="caja4" style="margin-bottom: 50px;">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi nobis consequatur vel itaque dignissimos sequi! Doloremque sequi, quam eveniet blanditiis, excepturi laudantium praesentium molestiae illo quas hic, deserunt voluptas class.</p>
 			<button class="comprar"id="c4">Comprar</button></div>
 		</div>
