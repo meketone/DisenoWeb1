@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $("div").removeClass("fack");
+        $("div").addClass("fuck");
+        
+    });
+});
+</script>
+	
+<style>
+
+	.fack {
+		width: 100px;
+		height: 350px;
+		background-color: #93b680;
+
+		}
+
+	.fuck {
+		width: 350px;
+		height: 100px;
+		background-color:#d6cd6e;
+		border: 4px solid black;
+		}
+
+</style>
+
+</head>
+<body>
+
+<div class="fack"></div>
+
+<button>Cambiale</button>
+
+</body>
+</html>
