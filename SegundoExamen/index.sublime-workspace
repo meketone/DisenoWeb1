@@ -1,0 +1,883 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ani",
+				"animate	.animate() with callback"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"im",
+				"img	img"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"th",
+				"thumbnails"
+			],
+			[
+				"url",
+				"url_imagen"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"hover",
+				"hoverGrid"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text	.text()"
+			],
+			[
+				"fa",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fade",
+				"fadeto	.fadeTo()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"Con",
+				"console"
+			],
+			[
+				"va",
+				"variableInt"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"N",
+				"Numeros"
+			],
+			[
+				"se",
+				"setItem"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"dat",
+				"datos"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Usua",
+				"Ususario"
+			],
+			[
+				"Admi",
+				"Administrador"
+			],
+			[
+				"margo",
+				"margin-top"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"inp",
+				"input	input - week"
+			],
+			[
+				"ci",
+				"ciudades"
+			],
+			[
+				"foo",
+				"foot"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"bott",
+				"margin-bottom"
+			],
+			[
+				"sr",
+				"service"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"h",
+				"heading"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"hea",
+				"header-container"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"col",
+				"ColorBlanco"
+			],
+			[
+				"colo",
+				"ColorRojo"
+			],
+			[
+				"bl",
+				"Blanco"
+			],
+			[
+				"ColorB",
+				"ColorBlanco"
+			],
+			[
+				"so",
+				"somos"
+			],
+			[
+				"n",
+				"Nombre"
+			],
+			[
+				"Caja",
+				"CajaEdad"
+			],
+			[
+				"ca",
+				"CajaNombre"
+			],
+			[
+				"li",
+				"lighter"
+			],
+			[
+				"A",
+				"Add"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"ed",
+				"Edad"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ad",
+				"Add"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"o",
+				"ourj-description"
+			],
+			[
+				"c",
+				"choose"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"res",
+				"resultado1"
+			],
+			[
+				"nu",
+				"numero1"
+			],
+			[
+				"num",
+				"numero2"
+			],
+			[
+				"conten",
+				"contenedor"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"numero",
+				"numero2"
+			],
+			[
+				"nume",
+				"numero1"
+			],
+			[
+				"numer",
+				"numero2"
+			],
+			[
+				"caja",
+				"cajaNombre"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"mi",
+				"miDiv"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"w",
+				"work"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"i",
+				"intro"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"Fon",
+				"font-size"
+			],
+			[
+				"ite",
+				"item2"
+			],
+			[
+				"Co",
+				"Colonia"
+			],
+			[
+				"E",
+				"Edad"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"au",
+				"auto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cont",
+				"Package Control: Install Package"
+			],
+			[
+				"CONTR",
+				"Package Control: Install Package"
+			],
+			[
+				"cin",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/SegundoExamen/lightbox/catedra.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/wookmark/catedra.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/javascriptbasico/jquery-callback.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/SegundoExamen/wookmarks/css/main.css",
+		"/Volumes/KINGSTON/indexag.html",
+		"/Volumes/KINGSTON/Ady/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/SegundoExamen/easing/style.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/SegundoExamen/lightbox/css/lightbox.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/SegundoExamen/wookmarks/css/reset.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/SegundoExamen/wookmarks/css/overview.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/easing/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/lightbox/catedra.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/vega/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/hovergrid/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/easing/style.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/video/video-js/index.html",
+		"/Users/maicky/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/video/video-js/video-js.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/bxSlider/bxslider/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/parallax/index2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/tabslet/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/plugins/tabslet/Tabslet/test/index.html",
+		"/Users/maicky/Downloads/GBKS-Wookmark-jQuery-91115f2/README.md",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/javascriptbasico/jquery-fade.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/PrimerExamen/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/PrimerExamen/style.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/javascriptbasico/jquery-hide.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/javascriptbasico/imagenes/jquery-set.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB I/Repositorio/DisenoWeb1/Ejercicios/javascriptbasico/jquery-slide.html",
+		"/Users/maicky/GitHub/repositorio/edicionweb2014/ExamenFinal/style.less",
+		"/Users/maicky/GitHub/repositorio/edicionweb2014/jewerly/index.html",
+		"/Users/maicky/GitHub/repositorio/Examen/css/style.css",
+		"/Users/maicky/GitHub/repositorio/jeffersonmd/style.less",
+		"/Users/maicky/GitHub/repositorio/edicionweb2014/Examen2/css/style.css",
+		"/Users/maicky/GitHub/repositorio/jeffersonmd/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Ejercicio5Par3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Ejercicio6Par3.html",
+		"/Users/maicky/GitHub/repositorio/edicionweb2014/ExamenFinal/style.css",
+		"/Users/maicky/GitHub/repositorio/jeffersonmd/img/web/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/examen2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Ejercicio1Par3.html",
+		"/Users/maicky/GitHub/repositorio/edicionweb2014/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Ejercicio4Par2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Páginas web/Numero1/css/style.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Páginas web/Numero1/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Items.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/repaso.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Examen.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/3.html",
+		"/Users/maicky/GitHub/repositorio/Examen/index.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/calculadora 2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/DISEÑO WEB 2/Calculadora.html",
+		"/Users/maicky/GitHub/repositorio/EjemploGit/Ejemplo1.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Estilos.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/LaMuerte/TrabajoFinal.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Estrucutura básica de un HTML5.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Estilos.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Responsive/Responsive",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/nube.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/sol.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio/index3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio/index7.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/bubbles.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/piso.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/luna.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/Estilos.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/cielo.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/AnimacionCSS3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/bubbles.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/meow.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/meow.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Nubes.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/cielo.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/piso.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/cometa.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/arcoiris.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/arbol.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/Evaluación.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/AnimaciónConImágenes.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/Contenedor.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/AnimacionCSS3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/cielo.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_3D.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_3D.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transiciones.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transiciones2.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_2D.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/tablas.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_2D.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/tablas.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Imagenes/Aprendiendo con imagenes.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Examen /Examen.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Header.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Examen /Cabeza.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Centro.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Examen /Todo.css",
+		"/Users/maicky/Downloads/Miguel Angel/Examen.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Tarea_2/Tarea2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/pedeefes.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"19",
+			"11",
+			"8",
+			"cont",
+			"150",
+			"=\"\">",
+			"alt",
+			"=\"\"></",
+			"'><",
+			"=\"../",
+			"wookmarks",
+			"=\"../",
+			"sample",
+			"1000",
+			"fast",
+			"show",
+			"hide",
+			"show",
+			"hide",
+			"show",
+			"id",
+			"</div>",
+			"p",
+			"slow",
+			"left",
+			"fast",
+			"div",
+			"p",
+			"h1",
+			";\n",
+			"style=\"text-decoration:none;",
+			"	\n",
+			"575757",
+			"black",
+			"h3",
+			"container",
+			"p",
+			"shadow",
+			"box",
+			"clear",
+			"96979a",
+			"titulo",
+			"tit",
+			"clear",
+			"Apellido",
+			"Nombre",
+			"usuarios",
+			"ciudades",
+			"work",
+			"about",
+			"}\n",
+			"cont",
+			"about",
+			"section",
+			"header",
+			"p",
+			"id",
+			"p",
+			"logo",
+			"clear",
+			": 70px auto;",
+			"margin",
+			"span",
+			"ColorRojo",
+			"#\n",
+			"{\n",
+			"}\n",
+			"	\n",
+			";\n",
+			"contador",
+			"cuadro1",
+			"div",
+			"id=\"item1\"",
+			"div",
+			"5px",
+			"margin: 5px 5px auto;",
+			"10px",
+			"\n:",
+			"width",
+			"<!",
+			"height",
+			";\n",
+			"width",
+			"	\n",
+			"Cabeza",
+			"DCFFED"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript" src="../../jquery-1.11.2.min.js"></script>
+	<script type="text/javascript"src="jquery.easing.1.3.js"></script>
+
+	<script>
+	$(document).ready(function() {
+
+		$('.thu').each(function(index, el) {
+
+			var $url_imagen = $(this).data('img');
+
+			$(this).css('background-image','url('+ $url_imagen +')');
+
+		});
+
+		//Animar el inicio de los thumbnails
+
+		$('.thumbnails').animate({marginTop:'0px',opacity: 1}, 1000, 'easeOutCubic');
+
+		//Animar el inicio del div.img
+
+		//$('.container .img').animate({top:'50%',opacity: 1}, 1000, 'easeOutCubic');
+
+		//Evento Click
+		$('.thu') .click(function(event) {
+			var $url_imagen = $(this).data('img');
+
+			$('.container .img')
+			.css('opacity', '0')
+			.css('top','-30%')
+			.css('background-image','url('+ $url_imagen +')')
+			.animate({
+				top: '50%',
+				opacity: '1'},
+				500, 'easeOutCubic', function() {
+				/* stuff to do after animation is complete
+							.animate({
+					param1: value1,
+					param2: value2},
+					speed, 'easing'function() {
+					
+				});
+				 */
+			});
+
+
+					});
+
+
+
+		
+	});
+
+	</script>
+</head>
+<body>
+
+	<div class="container">
+		<div class="img"></div>
+	</div>
+
+	<div class="thumbnails">
+		<div class="thu" data-img="img/3.jpg"></div>
+		<div class="thu" data-img="img/8.jpg"></div>
+		<div class="clearfix"></div>
+	</div>
+	
+</body>
+</html>

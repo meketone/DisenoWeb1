@@ -1,0 +1,78 @@
+<!-- ESTO SOLO ES PARA BACKGROUND -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Vega</title>
+	<script type="text/javascript" src="../../jquery-1.11.2.min.js"></script>
+	<script type="text/javascript" src="vegas/jquery.vegas.min.js"></script>
+
+	<script>
+	$(function(){
+
+		/*PARA PASAR COMO DIAPOSITIVAS*/
+
+	$.vegas('slideshow', {
+		backgrounds:[
+		{ src:'img/1.jpg', fade:1000 },
+		{ src:'img/2.jpg', fade:1000 },
+		{ src:'img/2.jpg', fade:1000 },
+		]
+			
+		})('overlay',{
+			src:'vegas/overlays/11.png'
+		});
+
+	});
+
+
+		/*   PARA QUE APARESCAN LAS CUADRICULAS 
+		$.vegas({
+			src:'img/david.jpg'
+		});
+
+		$.vegas('overlay',{
+			src:'vegas/overlays/01.png'
+		});
+
+	});*/
+
+
+	</script>
+
+
+	<link rel="stylesheet" type="text/css" href="vegas/jquery.vegas.min.css">
+
+	<style>
+	h1{
+		font-size: 85px;
+		color: white;
+		font-family: arial,helvetica;
+		text-align:center;
+		padding: 2%;
+		 } 
+	div{
+		width: 60%;
+		margin: 0 auto;
+		padding: 20px;
+		background-color: rgba(255,255,255,0.6);
+		border-radius: 3px;
+		font-family: arial,helvetica;
+		line-height: 25px;
+	}
+
+
+
+	</style>
+
+</head>
+<body>
+
+	<h1>Venta de cosas</h1>
+
+	<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad molestias ducimus maiores, facere commodi dolorum sunt accusamus aliquam quidem, asperiores nam. Vero consectetur similique, sit sint ducimus rem voluptates eaque. <br>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor nemo id fuga eaque ad quos repudiandae, perferendis a aperiam, nihil laudantium molestiae asperiores commodi veniam? Dolores non, optio tempore numquam.</div>
+	
+</body>
+</html>

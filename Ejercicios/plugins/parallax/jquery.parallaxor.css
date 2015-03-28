@@ -1,0 +1,18 @@
+/**
+ * Parallaxor - v0.10
+ * Simple jQuery plugin which allows you to create 
+ * beautiful parallax effects for your website
+ * https://github.com/alexandrubau/parallaxor
+ *
+ * Copyright 2014 Alexandru Bau
+ * Released under the GNU General Public License
+ * http://www.gnu.org/copyleft/gpl.html
+ */
+.parallaxor-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.parallaxor-layer {
+    /* nothing here yet */
+}
